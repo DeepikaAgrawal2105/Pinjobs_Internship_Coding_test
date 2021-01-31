@@ -1,6 +1,9 @@
 # Pinjobs_Internship_Coding_test
 
-Test-- Main Task is to fetch the mentioned variables from the rows.
+Title: 
+ Task is to fetch the mentioned variables from the rows.
+
+Description:
 This test contains 3 exercises.
 
 Exercise 1
@@ -26,3 +29,17 @@ Data provided- coupons_ner.csv
 
 I have done the project using Python and it's libraries.
 
+Libraries Used:
+
+1. Pandas in Python.
+2. RegeX.
+3. Spacy.
+
+Installation:
+
+1. import pandas as pd.
+2. import re.
+3. pip install -U spacy
+     pip install -U pip setuptools wheel
+     import spacy
+     spacy.cli.download("en_core_web_sm")
